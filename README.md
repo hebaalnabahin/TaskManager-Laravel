@@ -199,4 +199,4 @@ Additional project notes and screenshots are available in the `docs/` directory.
 
 **Heba Alnabahin**
 
-GitHub: [https://github.com/HebaAlnabahin-projects/TaskManager-Laravel](https://github.com/hebaalnabahin/TaskManager-Laravel.git)
+GitHub: (https://github.com/hebaalnabahin/TaskManager-Laravel.git)
